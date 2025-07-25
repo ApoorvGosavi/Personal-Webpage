@@ -345,6 +345,13 @@ ion-icon {
     /* padding:45px 10px; */
 }
 
+.project-card a{
+    text-align: center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
 .card-btn {
     background-color: rgb(255, 39, 39);
     border: none;
