@@ -499,10 +499,7 @@ input {
         align-items: center;
     }
 
-    .card-btn{
-         margin-left: 30%;
-    }
-
+    
     .skill-container {
         display: flex;
         flex-direction: column;
