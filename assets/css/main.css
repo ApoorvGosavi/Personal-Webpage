@@ -498,6 +498,10 @@ input {
         align-items: center;
     }
 
+    .card-btn{
+         margin-left: 27%;
+    }
+
     .skill-container {
         display: flex;
         flex-direction: column;
